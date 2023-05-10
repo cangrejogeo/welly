@@ -3,6 +3,8 @@ docs/userguide
 _version.py
 .ipynb_checkpoints
 .vscode
+.*.swp
+.*.swo
 
 # Mac
 .DS_Store
